@@ -165,16 +165,6 @@ Log entries include:
 - **Cause**: Directory doesn't exist
 - **Solution**: Run with administrator privileges so the tool can create `C:\Users\Public\Maas-Rowe\Logs\`
 
-## Support This Project
-
-If you find **Audio_Config** valuable for your audio workflow, consider supporting its development:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maasrowe)
-
-Your support helps maintain and improve this tool for audio professionals worldwide.
-
----
-
 ## Contact & Issues
 
 For issues, questions, or feature requests:
